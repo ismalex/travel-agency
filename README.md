@@ -20,3 +20,6 @@ composer create-project --prefer-dist laravel/laravel travel-agency
 ```
 http://localhost/travel-agency/public
 ```
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
