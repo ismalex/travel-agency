@@ -1,12 +1,12 @@
 # Travel-agency
-Travel-Agency is a web app made in PHP with the Laravel Framework; it uses the Amadeus RESTFUL API to get flight information.
+Travel-Agency is a web app made in PHP 7 with the Laravel Framework 5.7. It uses the Amadeus RESTFUL API to get flight information.
 
 ## Getting started
-It provides an example on consuming the Amadeus API using guzzle, including the generation of the ```Api Key```and the ```Api Secret``` necessary for this implementation. These can be founded on the [Amadeus documentation](https://developers.amadeus.com/quick-start-guide/category?id=77&durl=335&parentId=NaN).
+This project provides an example of consuming the Amadeus API using guzzle, including the generation of the ```Api Key```and the ```Api Secret``` necessary for this implementation. The Api keys can be founded on the [Amadeus documentation](https://developers.amadeus.com/quick-start-guide/category?id=77&durl=335&parentId=NaN).
 
 ### Prerequisites
-* Install and run XAMPP in your computer.
-* Install Laravel Framework.
+* Install and run [XAMPP](https://www.apachefriends.org/index.html) in your computer.
+* Install [Laravel](https://laravel.com/docs/5.8) Framework.
 
 ### Installation guide
 * Create a new Laravel project.
