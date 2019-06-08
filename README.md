@@ -15,7 +15,7 @@ composer create-project --prefer-dist laravel/laravel travel-agency
 ```
 * Go to C:\xampp\htdocs
 * Replace the recently created travel-agency folder with the app folder provided. 
-* Run the migrations. (in case the migrations don’t work you can use the ```.bd``` file provided on /database)
+* Run the migrations. (in case the migrations don’t work you can use the ```dream_travel_db.sql``` file provided on /database)
 * Run the application.
 ```
 http://localhost/travel-agency/public
